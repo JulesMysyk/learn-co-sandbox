@@ -1,0 +1,7 @@
+# assisting a defult value 
+def greeting (name = "Ruby prigramer")
+  puts "Hello, {"
+ 
+
+  
+
